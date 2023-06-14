@@ -1,4 +1,4 @@
-# example-python
+# python-notes
 
 
 ### db_ck.py
